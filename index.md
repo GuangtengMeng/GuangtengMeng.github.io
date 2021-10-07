@@ -43,7 +43,7 @@ Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y. Q., Geng, J. Y., & Han, L. (2019).
 
 ### Conference
 
-**Meng, G. T.**, Yang, Z., Fu, D., Li, Q., & Liu, X. (2019) **The influence of pain empathy on altruistic behavior.** 22nd National Academic Congress of Psychology in Hangzhou, China, Oct. [[abstract](/assets/abstract/InternationaNACP_2019_PE.pdf)]
+**Meng, G. T.**, Yang, Z., Fu, D., Li, Q., & Liu, X. (2019) **The influence of pain empathy on altruistic behavior.** 22nd National Academic Congress of Psychology in Hangzhou, China, Oct. [[abstract](/assets/abstract/NACP_2019_PE.pdf)]
 
 <!-- ## Publications
 
