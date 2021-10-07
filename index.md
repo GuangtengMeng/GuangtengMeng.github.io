@@ -23,8 +23,8 @@ Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: P
 - [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
 
 ### Skills
-Computer Skills: Python, R, Shell, MATLAB, Docker
-Neuroimaging Tools: EEGLab, FSL, SPM
+- Computer Skills: Python, R, Shell, MATLAB, Docker
+- Neuroimaging Tools: EEGLab, FSL, SPM
 
 ### Publications
 **Meng, G. T.**, Yuan, X. Y., Li, Q., Dai, B. B., & Liu, X. (preprint) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
