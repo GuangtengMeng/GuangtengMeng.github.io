@@ -5,7 +5,7 @@ layout: default
 ## Biography
 Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include prosocial behavior, social decision-making, and cognitive modeling.
 
-[[GitHub](https://github.com/druimeng)]
+[[GitHub](https://github.com/GuangtengMeng)]
 [[Twitter](https://twitter.com/GuangtengMeng)]
 [[GoogleScholar](https://scholar.google.com/citations?user=-YrlYhgAAAAJ&hl=en&oi)]
 [[ORCiD](https://orcid.org/0000-0002-4660-1034)]
