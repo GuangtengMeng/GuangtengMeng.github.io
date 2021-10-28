@@ -13,9 +13,9 @@ Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: P
 [[Resumé](/assets/cv/GuangtengMeng_CV_v1.1.pdf)]
 
 ### Interests
-- Social Decision-Making
+- Social Norm & Decision-Making
 - Drift Diffusion Models
-- Pain Empathy
+- Pain Empathy & Altruism
 
 ### Accomplishments
 - [Cognitive Modeling Academy Hamburg](https://cmah.eu/), Sep 2021 [[certificate](/assets/certificate/CMAH_Certificate_GM.pdf)]
