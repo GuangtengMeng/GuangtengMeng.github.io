@@ -23,7 +23,7 @@ Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: P
 - [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
 
 ### Skills
-- Computer Skills: Python, R, Shell, MATLAB, Docker
+- Computer Skills: Python, R, Shell, MATLAB
 - Neuroimaging Tools: EEGLab, FSL, SPM
 
 ### Publications
