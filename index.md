@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Biography
-Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include prosocial behavior, social decision-making, and cognitive modeling.
+Guangteng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include prosocial behavior, decision-making, and cognitive modeling.
 
 [[GitHub](https://github.com/GuangtengMeng)]
 [[Twitter](https://twitter.com/GuangtengMeng)]
@@ -13,17 +13,17 @@ Guangteng Meng is a PhD candidate of cognitive neuroscience at the CareLab(PI: P
 [[Resumé](/assets/cv/GuangtengMeng_CV_v1.1.pdf)]
 
 ### Interests
-- Social Norm & Decision-Making
+- Social Dilemma & Altruism
+- Decision-Making
 - Drift Diffusion Models
-- Pain Empathy & Altruism
 
 ### Accomplishments
 - [Cognitive Modeling Academy Hamburg](https://cmah.eu/), Sep 2021 [[certificate](/assets/certificate/CMAH_Certificate_GM.pdf)]
 - [Online FSL Course](https://open.win.ox.ac.uk/pages/fslcourse/website/), Sep 2020 [[certificate](/assets/certificate/FSL_Certificate_GM.pdf)]
-- [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
+- [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
 
 ### Skills
-- Computer Skills: Python, R, Shell, MATLAB
+- Computer Skills: Git, MATLAB, Python, R, Shell
 - Neuroimaging Tools: EEGLab, FSL, SPM
 
 ### Publications
@@ -44,12 +44,4 @@ Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y. Q., Geng, J. Y., & Han, L. (2019).
 ### Conference
 
 **Meng, G. T.**, Yang, Z., Fu, D., Li, Q., & Liu, X. (2019) **The influence of pain empathy on altruistic behavior.** 22nd National Academic Congress of Psychology in Hangzhou, China, Oct. [[abstract](/assets/abstract/NACP_2019_PE.pdf)]
-
-<!-- ## Publications
-
-M.P. Milham, **H. Jin** , X. Li, Giavasis, S., et al. **Assessing and Overcoming Pipeline-Related Variation in Functional Connectomics.** (in prep)
-
-M.P. Milham, **H. Jin** , S. Giavasis, X. Li, A. Solon, L. Ai, A.R. Franco, J.S. Ramirez, X. Wang, A. Gozzi, M. Pagani, A. Fox, A. Messinger, D.A. Fair, S. Keilholz, B. Russ, T. Xu, R.C. Craddock, et al. **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** (in prep)
- -->
-
 
