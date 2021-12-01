@@ -3,19 +3,20 @@ layout: default
 ---
 
 ## Biography
-Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include prosocial behavior, decision-making, and cognitive modeling.
+Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include social behavior, competitive decision-making, and computational modeling.
 
 [[GitHub](https://github.com/GuangtengMeng)]
 [[Twitter](https://twitter.com/GuangtengMeng)]
 [[GoogleScholar](https://scholar.google.com/citations?user=-YrlYhgAAAAJ&hl=en&oi)]
 [[ORCiD](https://orcid.org/0000-0002-4660-1034)]
 [[ResearchGate](https://www.researchgate.net/profile/Guang-Teng-Meng)]
-[[Resumé](/assets/cv/GuangtengMeng_CV_v1.1.pdf)]
+[[Resumé](/assets/cv/GuangtengMeng_CV_v1.2.pdf)]
 
 ### Interests
-- Social Dilemma & Altruism
+- Social Dilemma & Competition
 - Decision-Making
 - Drift Diffusion Models
+- Reinforcement Learning
 
 ### Accomplishments
 - [Cognitive Modeling Academy Hamburg](https://cmah.eu/), Sep 2021 [[certificate](/assets/certificate/CMAH_Certificate_GM.pdf)]
@@ -23,8 +24,8 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 - [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
 
 ### Skills
-- Computer Skills: Git, MATLAB, Python, R, Shell
-- Neuroimaging Tools: EEGLab, FSL, SPM
+- Computer Skills: Git, JavaScript, MATLAB, Python, R, Shell
+- Neuroimaging Tools: EEGLab, FSL, MNE, SPM
 
 ### Publications
 **Meng, G. T.**, Yuan, X. Y., Li, Q., Dai, B. B., & Liu, X. (preprint) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
