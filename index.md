@@ -13,7 +13,7 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 [[Resumé](/assets/cv/GuangtengMeng_CV_v1.2.pdf)]
 
 ### Interests
-- Social Dilemma & Competition
+- Social Dilemma
 - Decision-Making
 - Drift Diffusion Models
 - Reinforcement Learning
@@ -24,8 +24,9 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 - [Computational Psychiatry Course Zurich](https://www.translationalneuromodeling.org/cpcourse/), Sep 2020 [[certificate](/assets/certificate/CPC_Certificate_GM.pdf)]
 
 ### Skills
-- Computer Skills: Git, JavaScript, MATLAB, Python, R, Shell
-- Neuroimaging Tools: EEGLab, FSL, MNE, SPM
+- Behavioral Experiments: [PsychoPy](https://www.psychopy.org/), [oTree](http://www.otree.org/)([Server](https://otree-prodserver-setup.readthedocs.io/))
+- Computer Skills: [Git](https://git-scm.com/), [JavaScript](https://www.javascript.com/), [MATLAB](https://www.mathworks.com/products/matlab.html), [Python](https://www.python.org/), [R](https://www.r-project.org/), Shell
+- Neuroimaging Tools: [EEGLAB](https://eeglab.org/), [FSL](https://fsl.fmrib.ox.ac.uk/), [MNE](https://mne.tools/), [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
 
 ### Publications
 **Meng, G. T.**, Yuan, X. Y., Li, Q., Dai, B. B., & Liu, X. (preprint) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
@@ -40,7 +41,7 @@ Li, Q., Luo, R. L., Zhang, X. Y., **Meng, G. T.**, Dai, B. B., & Liu, X. (2021).
 
 Raiha, S., Yang, G. C., Wang, L. X., Dai, W. N., Wu, H. Y., **Meng, G. T.**, Zhong, B. W., & Liu, X. (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11, 599141. https://doi.org/10.3389/fpsyt.2020.599141 [[fulltext](/assets/paper/10.3389fpsyt.2020.599141.pdf)]
 
-Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y. Q., Geng, J. Y., & Han, L. (2019). The relationship between self-control and procrastination based on the self-regulation theory perspective: the moderated mediation model. Current Psychology. https://doi.org/10.1007/s12144-019-00442-3 [[fulltext](/assets/paper/10.1007s12144-019-00442-3.pdf)]
+Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y. Q., Geng, J. Y., & Han, L. (2019). The relationship between self-control and procrastination based on the self-regulation theory perspective: the moderated mediation model. Current Psychology, 40(10), 5076-5086. https://doi.org/10.1007/s12144-019-00442-3 [[fulltext](/assets/paper/10.1007s12144-019-00442-3.pdf)]
 
 ### Conference
 
