@@ -15,13 +15,13 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 ### Interests
 
 - Coopetition
-- Decision Neuroscience
+- Social Neuroscience
 - Reinforcement & Directional Learning
 - Drift Diffusion Models
 
 ### Publications
 
-**Meng, G. T.**, Li, Q., Yuan, X. Y., Zheng, Y., Hu, K. S., Dai, B. B., & Liu, X. (Accepted) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. BMC Public Health [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
+**Meng, G. T.**, Li, Q., Yuan, X. Y., Zheng, Y., Hu, K. S., Dai, B. B., & Liu, X. (in press) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. BMC Public Health. <https://doi.org/10.1186/s12889-022-14870-7> [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
 
 Dai, W. N., **Meng, G. T.**, Zheng, Y., Li, Q., Dai, B. B., & Liu, X. (2021). The Impact of Intolerance of Uncertainty on Negative Emotions in COVID-19: Mediation by Pandemic-Focused Time and Moderation by Perceived Efficacy. International Journal of Environmental Research and Public Health, 18(8), 4189. <https://doi.org/10.3390/ijerph18084189> [[fulltext](/assets/paper/10.3390ijerph18084189.pdf)]
 
