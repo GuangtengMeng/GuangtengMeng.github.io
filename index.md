@@ -21,17 +21,17 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 
 ### Publications
 
-**Meng, G. T.**, Li, Q., Yuan, X. Y., Zheng, Y., Hu, K. S., Dai, B. B., & Liu, X. (in press) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. BMC Public Health. <https://doi.org/10.1186/s12889-022-14870-7> [[fulltext](/assets/paper/preprint-32930-submitted.pdf)]
+**Meng, G. T.**, Li, Q., Yuan, X. Y., Zheng, Y., Hu, K. S., Dai, B. B., & Liu, X. (2023) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. BMC Public Health, 23(109), 14870-7. <https://doi.org/10.1186/s12889-022-14870-7> [[fulltext](/assets/paper/s12889-022-14870-7.pdf)]
 
 Dai, W. N., **Meng, G. T.**, Zheng, Y., Li, Q., Dai, B. B., & Liu, X. (2021). The Impact of Intolerance of Uncertainty on Negative Emotions in COVID-19: Mediation by Pandemic-Focused Time and Moderation by Perceived Efficacy. International Journal of Environmental Research and Public Health, 18(8), 4189. <https://doi.org/10.3390/ijerph18084189> [[fulltext](/assets/paper/10.3390ijerph18084189.pdf)]
 
-Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y., Geng, J. Y., & Han, L. (2021). The Relationship between Self-control and Procrastination Based on the Self-regulation Theory Perspective: The Moderated Mediation Model. Current Psychology, 40(10), 5076–5086. <https://doi.org/10.1007/s12144-019-00442-3> [[fulltext](/assets/paper/10.1007s12144-019-00442-3.pdf)]
+Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y., Geng, J. Y., & Han, L. (2021). The Relationship between Self-control and Procrastination Based on the Self-regulation Theory Perspective: The Moderated Mediation Model. Current Psychology, 40(10), 5076–86. <https://doi.org/10.1007/s12144-019-00442-3> [[fulltext](/assets/paper/10.1007s12144-019-00442-3.pdf)]
 
 Dai, B. B., Fu, D., **Meng, G. T.**, Liu, B. S., Li, Q., & Liu, X. (2020). The Effects of Governmental and Individual Predictors on COVID ‐19 Protective Behaviors in China: A Path Analysis Model. Public Administration Review, 80(5), 797–804. <https://doi.org/10.1111/puar.13236> [[fulltext](/assets/paper/10.1111puar.13236.pdf)]
 
 Dai, B. B., Zhang, X. Y., **Meng, G. T.**, Zheng, Y., Hu, K. S., Li, Q., & Liu, X. (2022). The Mechanism of Governments’ and Individuals’ Influence on Protective Behaviours during the Second Wave of COVID-19: A Multiple Mediation Model. European Journal of Psychotraumatology, 13(2), 1–12. <https://doi.org/10.1080/20008066.2022.2135196> [[fulltext](/assets/paper/10.108020008066.2022.2135196.pdf)]
 
-Luo, R. L., Li, Q., **Meng, G. T.**, Zheng, Y., Hu, K. S., Zhang, X. Y., Dai, B. B., & Liu, X. (2022). The Association between Intolerance of Uncertainty and Internet Addiction during the Second Wave of the Coronavirus Disease 2019 Pandemic: A Multiple Mediation Model Considering Depression and Risk Perception. PsyCh Journal, 11(3), 383–391. <https://doi.org/10.1002/pchj.545> [[fulltext](/assets/paper/10.1002pchj.545.pdf)]
+Luo, R. L., Li, Q., **Meng, G. T.**, Zheng, Y., Hu, K. S., Zhang, X. Y., Dai, B. B., & Liu, X. (2022). The Association between Intolerance of Uncertainty and Internet Addiction during the Second Wave of the Coronavirus Disease 2019 Pandemic: A Multiple Mediation Model Considering Depression and Risk Perception. PsyCh Journal, 11(3), 383–91. <https://doi.org/10.1002/pchj.545> [[fulltext](/assets/paper/10.1002pchj.545.pdf)]
 
 Fu, D., Ouyang, Y., Yang, G. C., **Meng, G. T.**, Wermter, S., Qi, Y., & Liu, X. (Preprint). Developmental Disparities between Stimulus-response and Stimulus-stimulus Conflicts Processing during Childhood, Adolescence, and Early Adulthood. <https://doi.org/10.31234/osf.io/5hdxv> [[fulltext](/assets/paper/10.31234osf.io5hdxv.pdf)]
 
@@ -41,7 +41,7 @@ Raiha, S., Yang, G. C., Wang, L. X., Dai, W. N., Wu, H. Y., **Meng, G. T.**, Zho
 
 ### Conference
 
-**Meng, G. T.**, Zhong, B. W., Wang, S. J., Li, Q., & Liu, X. (2022) **The Interplay between Social Comparison Orientation, Competitiveness, and Cooperativeness: A Network Analysis.** 2022 Academic Congress of Chinese Association of Social Psychology in Changsha, China, Dec. (Oral Presentation) [[abstract](/assets/abstract/NACP_2019_PE.pdf)]
+**Meng, G. T.**, Zhong, B. W., Wang, S. J., Li, Q., & Liu, X. (2022) **The Interplay between Social Comparison Orientation, Competitiveness, and Cooperativeness: A Network Analysis.** 2022 Academic Congress of Chinese Association of Social Psychology in Changsha, China, Dec. (Oral Presentation)
 
 **Meng, G. T.**, Yang, Z., Fu, D., Li, Q., & Liu, X. (2019) **The Influence of Pain Empathy on Altruistic Behavior.** 22nd National Academic Congress of Psychology in Hangzhou, China, Oct. (Oral Presentation) [[abstract](/assets/abstract/NACP_2019_PE.pdf)]
 
