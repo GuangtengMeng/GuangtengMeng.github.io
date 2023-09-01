@@ -4,7 +4,7 @@ layout: default
 
 ## Biography
 
-Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include neuroeconomics, social learning, and computational modeling.
+Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. His research interests include behavioural neuroeconomics, social psychology, and cognitive neuroscience.
 
 [[GitHub](https://github.com/GuangtengMeng)]
 [[Twitter](https://twitter.com/GuangtengMeng)]
@@ -14,12 +14,39 @@ Guang-Teng Meng is a PhD candidate of cognitive neuroscience at the CARELab (PI:
 
 ### Interests
 
-- Coopetition
-- Social Neuroscience
-- Reinforcement & Directional Learning
-- Drift Diffusion Models
+- Interpersonal Coopetition
+- Large Language Model
+- Social Learning & Belief Updating
+- Brain-Inspired Autonomous System (BIAS)
 
-### Publications
+
+## Major Project Experiences
+
+### Brain-Inspired Autonomous System (Service Lab at Huawei's 2012 Central Research Institute)
+- Based on the mechanisms of advanced human cognitive processing, this project innovatively proposed a **Brain-Inspired Autonomous System (BIAS)** by blending the cutting-edge fields of **autonomous systems, brain science, computational modelling, and cognitive neuroscience**.
+- Through mathematical models, it simulated human cognitive processes such as **belief updating, value-based decision making, conflict monitoring, and knowledge graphing**.
+- The project explored its application in areas like **traffic flow forecasting, user experience, operational efficiency, and resource utilization**.
+- This research direction has been included in Huawei's key research track in the **Autonomous Driving Network L5 Overall Reference Architecture Baseline (2023-2026)**.
+
+### Cognitive Neural Mechanisms Underlying the Impact of Social Comparison on the Dynamic Trade-off of Interpersonal Competition and Cooperation (National Natural Science Foundation Project, 2024-2027)
+- As one of the **key participants in charge**, I took on tasks ranging from problem proposing, paradigm development, project application, environment setup, data collection, project management, data analysis, paper writing, to project reporting.
+- The project utilized **scales, behaviors, EEGs, and fMRI** to investigate the cognitive neural mechanisms of interpersonal coopetition. **Computational models** were built for fitting purposes based on brain activation changes induced by dynamic trade-off during such social exchanges.
+
+### Mediation analyses and neural mechanisms of intergroup relationship on pain empathy and altruistic behaviorsr (National Natural Science Foundation Project, 2019-2022)
+- As one of the main participants of the project, I undertook tasks such as problem proposing, paradigm development, scheme designing, environment setup, data analysis, and project reporting. The project aims to verify the theoretical model of empathy regulating human behavior.
+
+### Individual Characteristic Analysis and Potential Risk Identification (Sub-Project of the National Key R&D Program)
+- I was one of the main contributors to the sub-project based on the XX Assisting Screening System R&D project. The project used personality, behavior, and neurophysiological indicators to identify specific populations, and applied big data technology combined with multimodal data for rapid classification.
+
+### China School-Age Children's Brain and Intellectual Development Cohort Study (Major Project of Science and Technology Innovation 2030 "Brain Science and Brain-inspired Research")
+- I was responsible for project management, MRI data analysis and management, paper writing, and project reporting. Structure, functional connectivity, graph theory, and independent component analysis were used to explore the developmental rules and individual differences of school-age children and adolescents.
+
+
+## Publications
+
+**Meng, G. T.**, Zhong, B. W., Wang, S. J., Li, Q., & Liu, X. (Preprint) Unpacking the Interpersonal
+Coopetition: A Network Analysis of Competitiveness, Cooperativeness, and Social Comparison
+Orientation<https://psyarxiv.com/mzwps>
 
 **Meng, G. T.**, Li, Q., Yuan, X. Y., Zheng, Y., Hu, K. S., Dai, B. B., & Liu, X. (2023) The Roles of Risk Perception, Negative Emotions and Perceived Efficacy in the Association Between COVID-19 Infection Cues and Preventive Behaviors: A Moderated Mediation Model. BMC Public Health, 23(109), 14870-7. <https://doi.org/10.1186/s12889-022-14870-7> [[fulltext](/assets/paper/s12889-022-14870-7.pdf)]
 
@@ -40,6 +67,8 @@ Li, Q., Luo, R. L., Zhang, X. Y., **Meng, G. T.**, Dai, B. B., & Liu, X. (2021).
 Raiha, S., Yang, G. C., Wang, L. X., Dai, W. N., Wu, H. Y., **Meng, G. T.**, Zhong, B. W., & Liu, X. (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11, 599141. <https://doi.org/10.3389/fpsyt.2020.599141> [[fulltext](/assets/paper/10.3389fpsyt.2020.599141.pdf)]
 
 ### Conference
+
+**Meng, G. T.**, Li, Q., & Liu, X. (2023) **Loss or lose, which is worse: The impact of social comparison on the dynamic trade-off in interpersonal coopetition** 2023 Academic Congress of Chinese Association of Social Psychology in Guizhou, China, Aug. (Oral Presentation)
 
 **Meng, G. T.**, Zhong, B. W., Wang, S. J., Li, Q., & Liu, X. (2022) **The Interplay between Social Comparison Orientation, Competitiveness, and Cooperativeness: A Network Analysis.** 2022 Academic Congress of Chinese Association of Social Psychology in Changsha, China, Dec. (Oral Presentation)
 
