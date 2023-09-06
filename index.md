@@ -30,20 +30,18 @@ I am a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu
 - This research direction has been included in Huawei's key research track in the **Autonomous Driving Network L5 Overall Reference Architecture Baseline (2023-2026)**.
 
 ### Cognitive Neural Mechanisms Underlying the Impact of Social Comparison on the Dynamic Trade-off of Interpersonal Competition and Cooperation (National Natural Science Foundation Project, 2024-2027)
-- As one of the **key participants in charge**, I took on tasks ranging from problem proposing, paradigm development, project application, environment setup, data collection, project management, data analysis, paper writing, to project reporting.
+- As one of the **key participants in charge**, I took on tasks ranging from problem proposing, paradigm development, project application, environment setup, data collection, project management, data analysis, paper writing, and project reporting.
 - The project utilized **scales, behaviors, EEGs, and fMRI** to investigate the cognitive neural mechanisms of interpersonal coopetition. **Computational models** were built for fitting purposes based on brain activation changes induced by dynamic trade-off during such social exchanges.
 
-### Mediation analyses and neural mechanisms of intergroup relationship on pain empathy and altruistic behaviorsr (National Natural Science Foundation Project, 2019-2022)
-- In this project, I undertook tasks such as problem proposing, paradigm development, scheme designing, environment setup, data analysis, and project reporting. The project aims to verify the theoretical model of empathy regulating human behavior.
-
-### Assisting Screening System (Sub-Project of the National Key R&D Program)
-- In this project, I focused on the individual characteristics identification. We used **personality, behavior, and neurophysiological indicators** to identify specific individuals, and applied big data technology combined with multimodal data for rapid classification.
-
 ### China School-Age Children's Brain and Intellectual Development Cohort Study (Major Project of Science and Technology Innovation 2030 "Brain Science and Brain-inspired Research")
-- In this project, I was responsible for **project management, MRI data analysis and management**. Structure, functional connectivity, graph theory, and independent component analysis were used to explore the developmental rules and individual differences of school-age children and adolescents.
+
+### Assisting Screening System (Sub-Project of the National Key R&D Program, 2019-2021)
+
+### Mediation analyses and neural mechanisms of intergroup relationship on pain empathy and altruistic behaviorsr (National Natural Science Foundation Project, 2019-2022)
 
 
-## Publications
+
+## Selected Publications
 
 **Meng, G. T.**, Zhong, B. W., Wang, S. J., Li, Q., & Liu, X. (Preprint) Unpacking the Interpersonal
 Coopetition: A Network Analysis of Competitiveness, Cooperativeness, and Social Comparison
@@ -57,15 +55,8 @@ Zhao, J. Z., **Meng, G. T.**, Sun, Y., Xu, Y., Geng, J. Y., & Han, L. (2021). Th
 
 Dai, B. B., Fu, D., **Meng, G. T.**, Liu, B. S., Li, Q., & Liu, X. (2020). The Effects of Governmental and Individual Predictors on COVID ‐19 Protective Behaviors in China: A Path Analysis Model. Public Administration Review, 80(5), 797–804. <https://doi.org/10.1111/puar.13236> [[fulltext](/assets/paper/10.1111puar.13236.pdf)]
 
-Dai, B. B., Zhang, X. Y., **Meng, G. T.**, Zheng, Y., Hu, K. S., Li, Q., & Liu, X. (2022). The Mechanism of Governments’ and Individuals’ Influence on Protective Behaviours during the Second Wave of COVID-19: A Multiple Mediation Model. European Journal of Psychotraumatology, 13(2), 1–12. <https://doi.org/10.1080/20008066.2022.2135196> [[fulltext](/assets/paper/10.108020008066.2022.2135196.pdf)]
-
-Luo, R. L., Li, Q., **Meng, G. T.**, Zheng, Y., Hu, K. S., Zhang, X. Y., Dai, B. B., & Liu, X. (2022). The Association between Intolerance of Uncertainty and Internet Addiction during the Second Wave of the Coronavirus Disease 2019 Pandemic: A Multiple Mediation Model Considering Depression and Risk Perception. PsyCh Journal, 11(3), 383–91. <https://doi.org/10.1002/pchj.545> [[fulltext](/assets/paper/10.1002pchj.545.pdf)]
-
 Fu, D., Ouyang, Y., Yang, G. C., **Meng, G. T.**, Wermter, S., Qi, Y., & Liu, X. (Preprint). Developmental Disparities between Stimulus-response and Stimulus-stimulus Conflicts Processing during Childhood, Adolescence, and Early Adulthood. <https://doi.org/10.31234/osf.io/5hdxv> [[fulltext](/assets/paper/10.31234osf.io5hdxv.pdf)]
 
-Li, Q., Luo, R. L., Zhang, X. Y., **Meng, G. T.**, Dai, B. B., & Liu, X. (2021). Intolerance of COVID-19-Related Uncertainty and Negative Emotions among Chinese Adolescents: A Moderated Mediation Model of Risk Perception, Social Exclusion and Perceived Efficacy. International Journal of Environmental Research and Public Health, 18(6), 2864. <https://doi.org/10.3390/ijerph18062864> [[fulltext](/assets/paper/10.3390ijerph18062864.pdf)]
-
-Raiha, S., Yang, G. C., Wang, L. X., Dai, W. N., Wu, H. Y., **Meng, G. T.**, Zhong, B. W., & Liu, X. (2020). Altered Reward Processing System in Internet Gaming Disorder. Frontiers in Psychiatry, 11, 599141. <https://doi.org/10.3389/fpsyt.2020.599141> [[fulltext](/assets/paper/10.3389fpsyt.2020.599141.pdf)]
 
 ### Conference
 
@@ -77,8 +68,9 @@ Raiha, S., Yang, G. C., Wang, L. X., Dai, W. N., Wu, H. Y., **Meng, G. T.**, Zho
 
 ### Skills
 
+- Coding: [Julia](https://julialang.org/), [Python](https://www.python.org/), [R](https://www.r-project.org/), [MATLAB](https://www.mathworks.com/products/matlab.html)
 - Behavioral Experiments: [PsychoPy](https://www.psychopy.org/), [oTree](http://www.otree.org/)([Server](https://otree-prodserver-setup.readthedocs.io/))
-- Computer Skills: [Git](https://git-scm.com/), [JavaScript](https://www.javascript.com/), [MATLAB](https://www.mathworks.com/products/matlab.html), [Python](https://www.python.org/), [R](https://www.r-project.org/), Shell
+- Computer Skills: [Git](https://git-scm.com/), [JavaScript](https://www.javascript.com/), [MATLAB](https://www.mathworks.com/products/matlab.html), Shell
 - Neuroimaging Tools: [EEGLAB](https://eeglab.org/), [FSL](https://fsl.fmrib.ox.ac.uk/), [MNE](https://mne.tools/), [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
 
 ### Accomplishments
