@@ -22,23 +22,15 @@ I am a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu
 
 
 ## Major Project Experiences
+### Cognitive Neural Mechanisms Underlying the Impact of Social Comparison on the Dynamic Trade-off of Interpersonal Competition and Cooperation (National Natural Science Foundation Project, 2024-2027)
+- As one of the **key participants in charge**, I took on tasks ranging from problem proposing, paradigm development, project application, environment setup, data collection, project management, data analysis, paper writing, and project reporting.
+- The project utilized **scales, behaviors, EEGs, and fMRI** to investigate the cognitive neural mechanisms of interpersonal coopetition. **Computational models** were built for fitting purposes based on brain activation changes induced by dynamic trade-off during such social exchanges.
 
 ### Brain-Inspired Autonomous System (Service Lab at 2012 Central Research Institute)
 - Based on the mechanisms of advanced human cognitive processing, this project innovatively proposed a **Brain-Inspired Autonomous System (BIAS)** by blending the cutting-edge fields of **autonomous systems, brain science, computational modelling, and cognitive neuroscience**.
 - Through mathematical models, it simulated human cognitive processes such as **belief updating, value-based decision making, conflict monitoring, and knowledge graphing**.
 - The project explored its application in areas like **traffic flow forecasting, user experience, operational efficiency, and resource utilization**.
 - This research direction has been included in Huawei's key research track in the **Autonomous Driving Network L5 Overall Reference Architecture Baseline (2023-2026)**.
-
-### Cognitive Neural Mechanisms Underlying the Impact of Social Comparison on the Dynamic Trade-off of Interpersonal Competition and Cooperation (National Natural Science Foundation Project, 2024-2027)
-- As one of the **key participants in charge**, I took on tasks ranging from problem proposing, paradigm development, project application, environment setup, data collection, project management, data analysis, paper writing, and project reporting.
-- The project utilized **scales, behaviors, EEGs, and fMRI** to investigate the cognitive neural mechanisms of interpersonal coopetition. **Computational models** were built for fitting purposes based on brain activation changes induced by dynamic trade-off during such social exchanges.
-
-### China School-Age Children's Brain and Intellectual Development Cohort Study (Major Project of Science and Technology Innovation 2030 "Brain Science and Brain-inspired Research")
-
-### Assisting Screening System (Sub-Project of the National Key R&D Program, 2019-2021)
-
-### Mediation analyses and neural mechanisms of intergroup relationship on pain empathy and altruistic behaviorsr (National Natural Science Foundation Project, 2019-2022)
-
 
 
 ## Selected Publications
@@ -68,9 +60,8 @@ Fu, D., Ouyang, Y., Yang, G. C., **Meng, G. T.**, Wermter, S., Qi, Y., & Liu, X.
 
 ### Skills
 
-- Coding: [Julia](https://julialang.org/), [Python](https://www.python.org/), [R](https://www.r-project.org/), [MATLAB](https://www.mathworks.com/products/matlab.html)
+- Coding: [Julia](https://julialang.org/), [Python](https://www.python.org/), [R](https://www.r-project.org/), [MATLAB](https://www.mathworks.com/products/matlab.html), [Git](https://git-scm.com/), [JavaScript](https://www.javascript.com/), Shell
 - Behavioral Experiments: [PsychoPy](https://www.psychopy.org/), [oTree](http://www.otree.org/)([Server](https://otree-prodserver-setup.readthedocs.io/))
-- Computer Skills: [Git](https://git-scm.com/), [JavaScript](https://www.javascript.com/), [MATLAB](https://www.mathworks.com/products/matlab.html), Shell
 - Neuroimaging Tools: [EEGLAB](https://eeglab.org/), [FSL](https://fsl.fmrib.ox.ac.uk/), [MNE](https://mne.tools/), [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
 
 ### Accomplishments
