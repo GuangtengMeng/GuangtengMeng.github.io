@@ -27,10 +27,8 @@ I am a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu
 - The project utilized **scales, behaviors, EEGs, and fMRI** to investigate the cognitive neural mechanisms of interpersonal coopetition. **Computational models** were built for fitting purposes based on brain activation changes induced by dynamic trade-off during such social exchanges.
 
 ### Brain-Inspired Autonomous System (Service Lab at 2012 Central Research Institute)
-- Based on the mechanisms of advanced human cognitive processing, this project innovatively proposed a **Brain-Inspired Autonomous System (BIAS)** by blending the cutting-edge fields of **autonomous systems, brain science, computational modelling, and cognitive neuroscience**.
-- Through mathematical models, it simulated human cognitive processes such as **belief updating, value-based decision making, conflict monitoring, and knowledge graphing**.
-- The project explored its application in areas like **traffic flow forecasting, user experience, operational efficiency, and resource utilization**.
-- This research direction has been included in Huawei's key research track in the **Autonomous Driving Network L5 Overall Reference Architecture Baseline (2023-2026)**.
+- Based on the mechanisms of advanced human cognitive processing, this project innovatively proposed a **Brain-Inspired Autonomous System (BIAS)** by blending the cutting-edge fields of autonomous systems, brain science, computational modelling, and cognitive neuroscience. Through mathematical models, it simulated human cognitive processes such as **belief updating, value-based decision making, conflict monitoring, and knowledge graphing**.
+- The project explored its application in areas like traffic flow forecasting, user experience, operational efficiency, and resource utilization. This research direction has been included in Huawei's key research track in the **Autonomous Driving Network L5 Overall Reference Architecture Baseline (2023-2026)**.
 
 
 ## Selected Publications
