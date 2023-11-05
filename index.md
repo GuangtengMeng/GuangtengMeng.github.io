@@ -4,7 +4,7 @@ layout: default
 
 ## Biography
 
-I am a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. I research interests focus on the psychological and neural mechanisms of interpersonal coopetition using behavioral modeling and neuroeconomics. 
+I am a PhD candidate of cognitive neuroscience at the CARELab (PI: Prof. Xun Liu) of Institute of Psychology, CAS. My research interests focus on the psychological and neural mechanisms of interpersonal coopetition using behavioral modeling and neuroeconomics. 
 
 [[GitHub](https://github.com/GuangtengMeng)]
 [[Twitter](https://twitter.com/GuangtengMeng)]
